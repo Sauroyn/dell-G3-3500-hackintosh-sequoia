@@ -1,0 +1,1 @@
+# dell-G3-3500-hackintosh-sequoia
